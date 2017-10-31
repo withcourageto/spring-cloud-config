@@ -4,6 +4,7 @@ db:
   url: jdbc:mysql://localhost:3306/test
   username: root
   password: Lideng
-
+test: test_pro
+test_config: testklkdkslfajds
 
   
