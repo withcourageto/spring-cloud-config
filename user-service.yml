@@ -3,7 +3,7 @@ info:
 db:
   url: jdbc:mysql://localhost:3306/test
   username: root
-  password: Lideng
+  password: Lideng-name
 test_config: default-config-change1
 
   
